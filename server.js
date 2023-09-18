@@ -3,7 +3,7 @@ const path = require('path');
 
 const app = express();
 
-// Sử dụng thư mục build của Jitsi Meet để phục vụ tài nguyên tĩnh
+// Sử dụng thư mục build của C-Meet để phục vụ tài nguyên tĩnh
 app.use(express.static(path.join(__dirname, 'build')));
 
 app.get('/', (req, res) => {

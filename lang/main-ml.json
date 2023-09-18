@@ -335,7 +335,7 @@
         "answer": "കോളിന് മറുപടി നൽകുക",
         "audioCallTitle": "ഇൻകമിംഗ് കോൾ",
         "decline": "നിരസിക്കുക",
-        "productLabel": "Jitsi Meet-ൽ നിന്ന്",
+        "productLabel": "C-Meet-ൽ നിന്ന്",
         "videoCallTitle": "ഇൻകമിംഗ് വീഡിയോ കോൾ"
     },
     "info": {
@@ -922,7 +922,7 @@
         "privacy": "സ്വകാര്യത",
         "recentList": "സമീപകാലം",
         "recentListDelete": "ഇല്ലാതാക്കുക",
-        "recentListEmpty": "Your recent list is currently empty. Chat with your team and you will find all your recent meetings here.",
+        "recentListEmpty": "Không có cuộc họp nào",
         "reducedUIText": "Welcome to {{app}}!",
         "roomNameAllowedChars": "മീറ്റിംഗ് നാമത്തിൽ ഈ പ്രതീകങ്ങളൊന്നും അടങ്ങിയിരിക്കരുത്: ?, &, :, ', \", %, #.",
         "roomname": "റൂമിന്റെ പേര് നൽകുക",
