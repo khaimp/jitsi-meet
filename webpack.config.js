@@ -240,6 +240,7 @@ function getDevServerConfig() {
         },
         host: '127.0.0.1',
         hot: true,
+        port: 4200,
         proxy: {
             '/': {
                 bypass: devServerProxyBypass,
